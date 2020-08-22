@@ -1,0 +1,23 @@
+.category-wrap {
+    height: 700px;
+    margin-left: 40px;
+}
+
+.category-wrap ul {
+    background-color: white;
+}
+
+.image-pdp {
+    background-image: url('../image/ak.png');
+    background-size: cover;
+    width: 500px;
+    height: 650px;
+    margin-left: 50px; float: left;
+    margin-top: 20px;
+}
+
+.info {
+    margin-top: 20px;
+    margin-left: 100px;
+    float: left;
+}
